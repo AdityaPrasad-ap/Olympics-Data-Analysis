@@ -7,9 +7,9 @@
 
 • To Load CSV file using Sqlalchemy, create engine and pandas to MYSQL workbench, and build queries for given problem statements.
 
- Note- This Capstone project is the part of my assesment submission for OdinSchool Data Science Bootcamp Program.
 
- Author- Anjali Pandurang Gondse
+
+ 
  
 ![oly](https://user-images.githubusercontent.com/104161600/187060451-2feba366-c6a4-48b7-a08f-28fb617ee5a4.jpg)
 
